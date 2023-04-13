@@ -6,6 +6,7 @@ function Home(){
         <h3>Welcome to My New Webpage. You have reached the Home page. </h3>
       </div>
       )
+
   }
 
 export default Home;

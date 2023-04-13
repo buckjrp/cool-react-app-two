@@ -1,4 +1,5 @@
 import React from "react";
+import Button from "../Button";
 
     function Contact(){
       return(
@@ -7,6 +8,7 @@ import React from "react";
           I still haven't gotten any new contacts for this component. Still
           trying to get in contact. *bad joke component*
         </h3>
+        <Button/>
       </div>
       )
 }
